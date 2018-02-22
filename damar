@@ -1,0 +1,10 @@
+rpcuser=damarkanginan
+rpcpassword=Syekhad2008
+rpcallowip=127.0.0.1
+rpcport=24776
+port=24777
+gen=0
+server=1
+addnode=176.31.223.188
+addnode=198.50.147.52
+addnode=37.187.180.225
